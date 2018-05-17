@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node server to unity3d",
+  "main": "index.js",
+  "scripts": {
+    "test": "command null"
+  },
+  "dependencies": {
+    "socket.io": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "unity3dNode"
+  ],
+  "author": "zouhunter",
+  "license": "ISC"
+}
